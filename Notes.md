@@ -7,3 +7,7 @@
 
 # Per mandare email da telefono
 Basta inviare un SMS all'indirizzo email desiderato
+
+# Inviare messaggi e fare telefonate a cellulare:
+- Twilio
+- Plivo
