@@ -8,6 +8,10 @@
 # Per mandare email da telefono
 Basta inviare un SMS all'indirizzo email desiderato
 
+Email da kivy: https://stackoverflow.com/questions/26749684/send-email-with-attachment-from-kivy-app-on-android-preferably-by-opening-email
+Serve con kivy: https://stackoverflow.com/questions/34888477/how-do-i-comunicate-with-my-computer-through-kivy
+
+
 # Inviare messaggi e fare telefonate a cellulare:
 - Twilio
 - Plivo
